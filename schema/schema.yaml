@@ -1,5 +1,33 @@
 properties:
-  template:field1:
-    type: uint8
-  template:field2:
+  ml:creation_method:
+    type: enum
+  ml:creation_method_detail:
     type: string
+  ml:ml:boundary_type:
+    type: enum
+  ml:creation_date:
+    type: datetime
+  ml:verified_from:
+    type: datetime
+  ml:verified_until:
+    type: datetime
+  ml:author:
+    type: string
+  ml:quality:
+    type: enum
+  ml:confidence:
+    type: float
+  ml:machine_generated:
+    type: boolean
+  ml:country_code:
+    type: string
+  ml:admin0:
+    type: string
+  ml:admin1:
+    type: string
+  ml:admin2:
+    type: string
+  ml:crop_type:
+    type: enum
+  ml:crop_category:
+    type: enum
