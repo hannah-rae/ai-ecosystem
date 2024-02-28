@@ -33,7 +33,7 @@ The fields in the table below can be used in these parts of fiboa documents:
 | ml:author | string | **REQUIRED**. Name of individual or organization who created this |
 | ml:confidence | float	| a value between zero and one that represents the confidence in a generated polygon (higher value = higher confidence) |
 | ml:crop_type | ENUM | the type of crop e.g. maize |
-| ml:crop_category | ENUM | **REQUIRED**. high-level crop category e.g. cereal (e.g. [FAO]([url](https://unstats.un.org/unsd/classifications/Family/Detail/1002))) |
+| ml:crop_category | ENUM | high-level crop category e.g. cereal (e.g. [FAO]([url](https://unstats.un.org/unsd/classifications/Family/Detail/1002))) |
 | ml:split_name | ENUM | Type of split, e.g., train, val, test. |
 | ml:split_idx | uint16 | Integer indexing of splits, e.g., 1, ... ,10 used for cross-validation. |
 
