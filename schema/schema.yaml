@@ -10,7 +10,7 @@ properties:
     required: true
   ml:creation_date:
     type: date-time
-    required: true
+    required: false
   ml:verified_from:
     type: date-time
     required: true
