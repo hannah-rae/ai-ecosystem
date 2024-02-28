@@ -1,4 +1,4 @@
-# Template Extension Specification
+# AI Ecosystem Extension Specification
 
 - **Title:** AI ecosystem
 - **Identifier:** <https://fiboa.github.io/ai-ecosystem/v0.1.0/schema.yaml>
@@ -28,7 +28,7 @@ The fields in the table below can be used in these parts of fiboa documents:
 | --------------- | ------ | ----------- |
 | ml:creation_method | ENUM | how the label was created e.g. field walk, image-annotated, ML generated |
 | ml:creation_method_detail | string | additional details about the creation method, including potentially a link to the algorithm |
-| ml:boundary_type | ENUM |  |
+| ml:boundary_type | ENUM | Whether the boundary is for a field, ownership parcel, hedge, or other boundary |
 | ml:creation_date | datetime  | [Auto-added] Date collection was created or published |
 | ml:verified_from | datetime | the first date for which the boundary is verified to be present on ground (e.g. through ground-truth or remote sensing image verification) |
 | ml:verified_until | datetime | 	the last date for which the boundary is verified to be present on ground (e.g., through ground-truth or remote sensing image verification) |
