@@ -27,7 +27,7 @@ The fields in the table below can be used in these parts of fiboa documents:
 | Property Name   | Type   | Description |
 | --------------- | ------ | ----------- |
 | ml:creation_method | ENUM | **REQUIRED**. how the label was created e.g. field walk, image-annotated, ML generated |
-| ml:creation_method_detail | string | **REQUIRED**. additional details about the creation method, including potentially a link to the algorithm |
+| ml:creation_method_detail | string |  additional details about the creation method, including potentially a link to the algorithm |
 | ml:boundary_type | ENUM | **REQUIRED**. whether the boundary is for a field, ownership parcel, hedge, or other boundary |
 | ml:creation_date | datetime  | **REQUIRED**.[Auto-added] Date collection was created or published |
 | ml:verified_from | datetime | **REQUIRED**. the first date for which the boundary is verified to be present on ground (e.g. through ground-truth or remote sensing image verification) |
