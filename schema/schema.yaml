@@ -6,11 +6,11 @@ properties:
   ml:ml:boundary_type:
     type: enum
   ml:creation_date:
-    type: datetime
+    type: date-time
   ml:verified_from:
-    type: datetime
+    type: date-time
   ml:verified_until:
-    type: datetime
+    type: date-time
   ml:author:
     type: string
   ml:quality:
