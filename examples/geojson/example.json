@@ -1,6 +1,6 @@
 {
+  "id": "1234",
   "type": "Feature",
-  "id": "example",
   "bbox": [
     172.91173669923782,
     1.3438851951615003,
@@ -35,9 +35,16 @@
     ]
   },
   "properties": {
-    "datetime": "2020-01-01T00:00:00Z",
-    "expires": "2021-01-01T00:00:00Z",
-    "template:field1": 1,
-    "template:field2": "abc"
+    "determination_datetime": "2020-01-01T00:00:00Z",
+    "ml:creation_method_detail": "extracted using model trained ASU dataset",
+    "ml:boundary_type": "field",
+    "ml:verified_from": "2020-01-01T00:00:00Z",
+    "ml:verified_until": "2021-01-01T00:00:00Z",
+    "ml:author": "ai-ecosystem",
+    "ml:confidence": 1.0,
+    "ml:crop_type": "maize",
+    "ml:crop_category": "cereal",
+    "ml:split_name": "train",
+    "ml:split_idx": 2
   }
 }
