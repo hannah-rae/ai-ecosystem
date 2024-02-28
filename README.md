@@ -4,7 +4,7 @@
 - **Identifier:** <https://fiboa.github.io/ai-ecosystem/v0.1.0/schema.yaml>
 - **Property Name Prefix:** ml
 - **Extension Maturity Classification:** Proposal
-- **Owner**: @hannah-rae @subash-khanal @yanglexie @jacobsn @eddiechoi00
+- **Owner**: @hannah-rae @subash-khanal @yanglexie @jacobsn @eddiechoi00 @nhodges00
 
 This document explains the AI Ecosystem Extension to the
 [Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
