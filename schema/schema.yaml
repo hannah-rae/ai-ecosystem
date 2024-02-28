@@ -28,7 +28,7 @@ properties:
     required: false
   ml:machine_generated:
     type: boolean
-    required: false
+    required: true
   ml:country_code:
     type: string
     required: true
