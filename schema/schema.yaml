@@ -1,49 +1,48 @@
+$schema: https://fiboa.github.io/schema/v0.1.0/schema.json
+required:
+  - ml:creation_method
+  - ml:boundary_type
+  - ml:verified_from
+  - ml:verified_until
+  - ml:author
+  - ml:quality
+  - ml:machine_generated
+  - ml:country_code
+  - ml:admin0
+  - ml:admin1
+  - ml:admin2
+  - ml:crop_category
 properties:
   ml:creation_method:
-    type: enum
-    required: true
+    type: string
   ml:creation_method_detail:
     type: string
-    required: false
   ml:ml:boundary_type:
-    type: enum
+    type: string
     required: true
   ml:creation_date:
     type: date-time
-    required: false
   ml:verified_from:
     type: date-time
-    required: true
   ml:verified_until:
     type: date-time
-    required: true
   ml:author:
     type: string
-    required: true
   ml:quality:
-    type: enum
-    required: true
+    type: string
   ml:confidence:
     type: float
-    required: false
   ml:machine_generated:
     type: boolean
-    required: true
   ml:country_code:
     type: string
-    required: true
   ml:admin0:
     type: string
-    required: true
   ml:admin1:
     type: string
-    required: true
   ml:admin2:
     type: string
-    required: true
   ml:crop_type:
-    type: enum
-    required: false
+    type: string
   ml:crop_category:
-    type: enum
-    required: true
+    type: string
