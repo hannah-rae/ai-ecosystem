@@ -1,17 +1,18 @@
 # AI Ecosystem Extension Specification
 
+This document explains the AI Ecosystem Extension to the
+[Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
+
 - **Title:** AI ecosystem
 - **Identifier:** <https://fiboa.github.io/ai-ecosystem/v0.1.0/schema.yaml>
 - **Property Name Prefix:** ml
 - **Extension Maturity Classification:** Proposal
 - **Owner**: @hannah-rae @subash-khanal @yanglexie @jacobsn @eddiechoi00
 
-This document explains the AI Ecosystem Extension to the
-[Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
 
-This extension adds support for properties useful for integrating field boundary data with the AI/ML ecosystem.
+This extension also adds support for properties useful for integrating field boundary data with the AI/ML ecosystem.
 
-- Examples: (TODO)
+- Examples:
   - [GeoJSON](examples/geojson/)
   - [GeoParquet](examples/geoparquet/)
 - [Schema](schema/schema.yaml)
