@@ -9,7 +9,6 @@ This document explains the AI Ecosystem Extension to the
 - **Extension Maturity Classification:** Proposal
 - **Owner**: @hannah-rae @subash-khanal @yanglexie @jacobsn @eddiechoi00
 
-
 This extension also adds support for properties useful for integrating field boundary data with the AI/ML ecosystem.
 
 - Examples:
