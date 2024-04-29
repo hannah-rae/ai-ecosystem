@@ -34,6 +34,8 @@ The fields in the table below can be used in these parts of fiboa documents:
 | ml:admin1 | string | **REQUIRED**. [Auto-added] a unique admin1 (state) name for the administrative region that contains the field - can auto-generate from [GADM boundaries](https://geodata.ucdavis.edu/gadm/) |
 | ml:admin2 | string | **REQUIRED**. a unique admin2 (county) name for the administrative region that contains the field - can auto-generate from [GADM boundaries](https://geodata.ucdavis.edu/gadm/) |
 
+*Note: Country Code, admin1 and admin2 could be derived from [GADM boundaries](https://geodata.ucdavis.edu/gadm/).*
+
 ## Contributing
 
 See the [contributing guideline](CONTRIBUTING.md) for more details.
