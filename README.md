@@ -30,7 +30,7 @@ The fields in the table below can be used in these parts of fiboa documents:
 | ml:creation_date | datetime  | **REQUIRED**.[Auto-added] Date collection was created or published |
 | ml:verified_from | datetime | **REQUIRED**. the first date for which the boundary is verified to be present on ground (e.g. through ground-truth or remote sensing image verification) |
 | ml:author | string | **REQUIRED**. Name of individual or organization who created this |
-| ml:country_code | string | **REQUIRED**. [Auto-added] three-letter country code for the country that contains the field, e.g. SDN; Can be found <https://www.iso.org/obp/ui/#search> under the Alpha-3 code column |
+| ml:country_code | string | **REQUIRED**. ISO 3166-1 alpha-3 country code. Three-letter country code for the country that contains the field, e.g. `SDN` for Sudan. Can be found at <https://www.iso.org/obp/ui/#search> under the Alpha-3 code column. |
 | ml:admin1 | string | **REQUIRED**. [Auto-added] a unique admin1 (state) name for the administrative region that contains the field - can auto-generate from [GADM boundaries](https://geodata.ucdavis.edu/gadm/) |
 | ml:admin2 | string | **REQUIRED**. a unique admin2 (county) name for the administrative region that contains the field - can auto-generate from [GADM boundaries](https://geodata.ucdavis.edu/gadm/) |
 
