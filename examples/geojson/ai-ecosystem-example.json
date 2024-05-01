@@ -19,8 +19,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -59,8 +59,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -179,8 +179,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -299,8 +299,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -435,8 +435,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -539,8 +539,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -635,8 +635,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -687,8 +687,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -739,8 +739,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -799,8 +799,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-HO"
+                "ml:admin1": "UT",
+                "ml:admin2": "HO"
             },
             "geometry": {
                 "type": "Polygon",
@@ -843,7 +843,7 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
+                "ml:admin1": "UT",
                 "ml:admin2": null
             },
             "geometry": {
@@ -931,8 +931,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-WD"
+                "ml:admin1": "UT",
+                "ml:admin2": "WD"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1075,8 +1075,8 @@
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
                 "ml:country_code": "NLD",
-                "ml:admin1": "NLD-UT",
-                "ml:admin2": "NLD-UT-WD"
+                "ml:admin1": "UT",
+                "ml:admin2": "WD"
             },
             "geometry": {
                 "type": "Polygon",
