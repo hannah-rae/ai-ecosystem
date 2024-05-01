@@ -7,7 +7,7 @@ required:
   - ml:country_code
   - ml:admin1
 properties:
-  ml:ml:boundary_type:
+  ml:boundary_type:
     type: string
     enum:
       - field
