@@ -6,19 +6,29 @@ required:
   - ml:author
   - ml:country_code
   - ml:admin1
-  - ml:admin2
 properties:
   ml:ml:boundary_type:
     type: string
+    enum:
+      - field
+      - parcel
+      - hedge
+      - other
   ml:creation_date:
-    type: date-time
+    type: date
   ml:verified_from:
-    type: date-time
+    type: date
   ml:author:
     type: string
   ml:country_code:
     type: string
   ml:admin1:
     type: string
+    minLength: 5
+    maxLength: 7
+    pattern: ^[A-Z]{3}-[A-Z0-9]{1,3}$
   ml:admin2:
     type: string
+    minLength: 7
+    maxLength: 10
+    pattern: ^[A-Z]{3}-[A-Z0-9]{1,3}-[A-Z0-9]{1,2}$
