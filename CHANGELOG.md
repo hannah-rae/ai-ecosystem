@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - ...
 
-## [v0.1.0] - 2024-03-01
+## [v0.1.0] - 2024-05-02
 
 - First release
 
