@@ -1,5 +1,7 @@
 $schema: https://fiboa.github.io/schema/v0.1.0/schema.json
 required:
+  - determination_method
+  - determination_datetime
   - ml:boundary_type
   - ml:creation_date
   - ml:verified_from
