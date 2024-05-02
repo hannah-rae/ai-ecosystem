@@ -3,7 +3,7 @@ required:
   - determination_method
   - determination_datetime
   - ml:boundary_type
-  - ml:creation_date
+# - ml:creation_date
   - ml:verified_from
   - ml:author
   - ml:country_code
@@ -16,8 +16,8 @@ properties:
       - parcel
       - hedge
       - other
-  ml:creation_date:
-    type: date
+# ml:creation_date:
+#   type: date
   ml:verified_from:
     type: date
   ml:author:
