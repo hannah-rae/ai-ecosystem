@@ -19,6 +19,19 @@ This extension adds support for properties useful for integrating field boundary
 
 ## Properties
 
+### Collection
+
+The fields in the table below can be used in these parts of fiboa documents:
+
+- [x] Collection
+- [ ] Feature Properties
+
+| Property Name    | Type | Description                                                  |
+| ---------------- | ---- | ------------------------------------------------------------ |
+| ml:creation_date | date | **REQUIRED**. Date the collection was created or published   |
+
+### Features
+
 The fields in the table below can be used in these parts of fiboa documents:
 
 - [ ] Collection
@@ -37,7 +50,9 @@ The fields in the table below can be used in these parts of fiboa documents:
 > [!NOTE]  
 > Country Code, admin1 and admin2 can be derived from [GADM boundaries](https://geodata.ucdavis.edu/gadm/).
 
-Additionally, the following properties from the core specification from the
+#### Additional Properties
+
+Additionally, the following properties from from the
 [core specification](https://github.com/fiboa/specification/blob/main/core/README.md)
 are relevant for AI usecases:
 
