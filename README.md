@@ -36,6 +36,17 @@ The fields in the table below can be used in these parts of fiboa documents:
 
 *Note: Country Code, admin1 and admin2 could be derived from [GADM boundaries](https://geodata.ucdavis.edu/gadm/).*
 
+Additionally, the following properties from the core specification from the
+[core specification](https://github.com/fiboa/specification/blob/main/core/README.md)
+are relevant for AI usecases:
+
+| Property Name   | Type   | Description |
+| --------------- | ------ | ----------- |
+| determination_method | string | **REQUIRED**. The boundary creation method |
+| determination_datetime | string |  **REQUIRED**. The first date for which the boundary is verified to be present on ground |
+
+For more details and the full specification of these fields, please see the [determination properties defined in core specification](https://github.com/fiboa/specification/blob/main/core/README.md#determination-properties).
+
 ## Contributing
 
 See the [contributing guideline](CONTRIBUTING.md) for more details.
