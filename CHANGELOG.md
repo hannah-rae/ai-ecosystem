@@ -21,7 +21,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Removed
 
-- ...
+- `ml:country_code` in favor of `admin:country_code`
+- `ml:admin1` in favor of `admin:subdivision_code`
 
 ### Fixed
 

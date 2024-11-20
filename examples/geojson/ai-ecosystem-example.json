@@ -2,7 +2,8 @@
     "fiboa": {
         "fiboa_version": "0.2.0",
         "fiboa_extensions": [
-            "https://fiboa.github.io/ai-ecosystem-extension/v0.1.0/schema.yaml"
+            "https://fiboa.github.io/ai-ecosystem-extension/v0.1.0/schema.yaml",
+            "https://fiboa.github.io/administrative-division-extension/v0.1.0/schema.yaml"
         ],
         "ml:creation_date": "2024-04-25"
     },
@@ -18,8 +19,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -57,8 +58,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -176,8 +177,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -295,8 +296,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -430,8 +431,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -533,8 +534,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -628,8 +629,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -679,8 +680,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -730,8 +731,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -789,8 +790,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "HO"
             },
             "geometry": {
@@ -832,8 +833,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": null
             },
             "geometry": {
@@ -919,8 +920,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "WD"
             },
             "geometry": {
@@ -1062,8 +1063,8 @@
                 "ml:boundary_type": "field",
                 "ml:verified_from": "2022-03-01",
                 "ml:author": "Planetscope",
-                "ml:country_code": "NLD",
-                "ml:admin1": "UT",
+                "admin:country_code": "NL",
+                "admin:subdivision_code": "UT",
                 "ml:admin2": "WD"
             },
             "geometry": {

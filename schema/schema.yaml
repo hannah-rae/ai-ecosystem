@@ -6,8 +6,8 @@ required:
 # - ml:creation_date
   - ml:verified_from
   - ml:author
-  - ml:country_code
-  - ml:admin1
+  - admin:country_code
+  - admin:subdivision_code
 properties:
   ml:boundary_type:
     type: string
@@ -22,16 +22,6 @@ properties:
     type: date
   ml:author:
     type: string
-  ml:country_code:
-    type: string
-    minLength: 3
-    maxLength: 3
-    pattern: ^[A-Z]{3}$
-  ml:admin1:
-    type: string
-    minLength: 1
-    maxLength: 3
-    pattern: ^[A-Z0-9]{1,3}$
   ml:admin2:
     type: string
     minLength: 1
